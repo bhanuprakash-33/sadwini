@@ -80,7 +80,7 @@ const About = () => {
 
             <div className="mt-8">
               <a
-                href="./public/sad.pdf"
+                href="sad.pdf"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-gray-100 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-900 dark:text-white rounded-lg font-medium transition duration-300"
               >
                 Download Resume

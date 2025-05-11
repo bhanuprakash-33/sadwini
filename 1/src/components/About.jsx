@@ -17,7 +17,7 @@ const About = () => {
             <div className="relative">
               <div className="aspect-[3/4] bg-gray-300 dark:bg-gray-700 rounded-lg overflow-hidden">
                 <img
-                  src="./1/public/hy.jpg"
+                  src="./sadwini/1/public/hy.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
